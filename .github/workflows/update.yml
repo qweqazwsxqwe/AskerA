@@ -32,7 +32,7 @@ jobs:
     
     - name: Build
       run: |
-        python runtest.py
+        python ./run/updater.py
     
     - name: Package downloaded files
       run: |
