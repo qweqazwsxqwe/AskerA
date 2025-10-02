@@ -449,7 +449,6 @@ def main():
                 })
                 
                 print(f"测试完成: {url}")
-                print(f"结果摘要: {result[:100]}..." if len(result) > 100 else f"结果: {result}")
                 print("-" * 60)
             
             # 如果不是最后一次刷新，等待下一次刷新
