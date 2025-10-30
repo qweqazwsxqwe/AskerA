@@ -1,2 +1,1 @@
-https://scriptcat.org/zh-CN/search?keyword=edu
-https://bbs.tampermonkey.net.cn/forum.php?mod=
+https://bbs.tampermonkey.net.cn/forum.php
